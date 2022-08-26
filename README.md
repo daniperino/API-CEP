@@ -1,6 +1,6 @@
-#**API CEP**
+# **API CEP**
 
-##Projeto desenvolvido para busca de CEP :postbox:
+## Projeto desenvolvido para busca de CEP :postbox:
 
 - Para utilização digite o cep no campo indicado CEP e 
   clique em enviar.
@@ -15,4 +15,5 @@
 
 
 
-**Espero que gostem! ** 
+**Espero que gostem!**
+
