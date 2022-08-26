@@ -11,7 +11,7 @@
   de digitação do usuário.
 
 - Para o retorno do CEP foi utilizado o site [**ViaCEP**] (https://viacep.com.br/)
-- Código desenvolvido em Javascript e Html
+- Código desenvolvido em Javascript e Html 
 
 
 
