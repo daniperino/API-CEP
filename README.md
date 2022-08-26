@@ -10,7 +10,7 @@
 - Foi utilizado a função ALERT para corrigir possíveis erros
   de digitação do usuário.
 
-- Para o retorno do CEP foi utilizado o site [**ViaCEP**] (https://viacep.com.br/)
+- Para o retorno do CEP foi utilizado o site [ViaCEP](https://viacep.com.br/)
 - Código desenvolvido em Javascript e Html 
 
 
