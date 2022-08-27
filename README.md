@@ -5,7 +5,7 @@
 - Para utilização digite o cep no campo indicado CEP e 
   clique em enviar.
 
-- Irá retornar o endereço correspondente do CEP digitado.
+- Irá retornar o endereço correspondente ao CEP digitado.
 
 - Foi utilizado a função ALERT para corrigir possíveis erros
   de digitação do usuário.

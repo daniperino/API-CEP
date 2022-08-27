@@ -1,5 +1,5 @@
 
-//Limpar o formulário toda vez que for fazer uma nova a pesquisa e retornar vazio.
+//Limpar o formulário toda vez que for feito uma nova pesquisa e retornar vazio.
 const limparFormulario = (endereco) => { 
     document.getElementById('rua').value = '';
     document.getElementById('bairro').value = '';
